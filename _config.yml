@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: [NCM]
-description: [Simple Course Site.]
+title: NCM Course Site.
+description: Simple Course Site.
+show_downloads: true
