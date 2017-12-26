@@ -1,6 +1,6 @@
 ## Welcome to NCM Course.
 
-Numerical Computation Methods for Second semester of B.Sc.(CS|IT) Students.
+Numerical Computation Methods for Second semester of B.Sc.(CS/IT) Students.
 
 You can download the course material from here.
 
