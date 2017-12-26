@@ -12,6 +12,9 @@ Download sample question paper of NCM:[W-4031](https://drive.google.com/file/d/1
 
 
 ### Lab Assignments
-Name of Practical                       | Lab Assignment
---------------------------------------- | -------------------------------------------------------------------------------
-1. Bisection Method                     | [Lab Exp 1](https://drive.google.com/open?id=1GhA7PEQ5DSmEDNKCgmlp0azDdZq2HZBM)
+Name of Practical                        |  Lab Assignment
+---------------------------------------  |  -------------------------------------------------------------------------------
+1. Bisection Method                      |   [Lab Exp 1](https://drive.google.com/open?id=1GhA7PEQ5DSmEDNKCgmlp0azDdZq2HZBM)
+2. False Position Method                 |   
+3. Newton-Raphson Method                 |
+4. Gauss Elimination Method              |
