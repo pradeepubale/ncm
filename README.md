@@ -23,4 +23,9 @@ Name of Practical                        |  Lab Assignment
 1. Bisection Method                      |   [Lab Exp 1](https://drive.google.com/open?id=1GhA7PEQ5DSmEDNKCgmlp0azDdZq2HZBM)
 2. False Position Method                 |   [Lab Exp 2](https://drive.google.com/file/d/1lxn-06FPsu8d64WQufDf_8sxKZQP-bz2/view?usp=sharing)
 3. Newton-Raphson Method                 |   [Lab Exp 3](https://drive.google.com/file/d/1yVLxJu_VpUgxW3tqTB5ryd8oTNJ3CzYx/view?usp=sharing)
-4. Gauss Elimination Method              |
+4. Gauss Elimination Method              |   [Lab Exp 4](https://drive.google.com/file/d/1Mlo6jpY3WAOstpf8wENTY23cU0XlmfAn/view?usp=sharing)
+5. Matrix Inverse Method                 |
+6. Newton Forward Difference             |
+7. Newton Backward Difference            |
+8. Newton's Interpolation                |
+9. Lagrange's Interpolation              |
