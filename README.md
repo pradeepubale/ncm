@@ -24,8 +24,7 @@ Name of Practical                        |  Lab Assignment
 2. False Position Method                 |   [Lab Exp 2](https://drive.google.com/file/d/1lxn-06FPsu8d64WQufDf_8sxKZQP-bz2/view?usp=sharing)
 3. Newton-Raphson Method                 |   [Lab Exp 3](https://drive.google.com/file/d/1yVLxJu_VpUgxW3tqTB5ryd8oTNJ3CzYx/view?usp=sharing)
 4. Gauss Elimination Method              |   [Lab Exp 4](https://drive.google.com/file/d/1Mlo6jpY3WAOstpf8wENTY23cU0XlmfAn/view?usp=sharing)
-5. Matrix Inverse Method                 |
-6. Newton Forward Difference             |
-7. Newton Backward Difference            |
-8. Newton's Interpolation                |
-9. Lagrange's Interpolation              |
+5. Matrix Inverse Method                 |   [Lab Exp 5](https://drive.google.com/file/d/1tS4cmcSyZ7WFCaEeGRxbx9WSwbp7y8Dy/view?usp=sharing)
+6. Newton Forward & Backward Difference  |   [Lab Exp 6 and 7](https://drive.google.com/file/d/15AQtufui8efon0ifs3qrEfyzOm3lKeSt/view?usp=sharing)        
+8. Newton's Interpolation                |   [Lab Exp 8](https://drive.google.com/file/d/159211FwKNg-XwVpE1nqWZ0eQeej8gbHK/view?usp=sharing)
+9. Lagrange's Interpolation              |   [Lab Exp 9](https://drive.google.com/file/d/1w3wdXkWCy_RqB6XCsWBUKhNx2jOyF7nc/view?usp=sharing)
