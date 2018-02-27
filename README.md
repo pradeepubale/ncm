@@ -16,6 +16,13 @@ Problem Set 03:[Download](https://drive.google.com/file/d/1aUP-Yo72Gy9xk7-Ox4ZJJ
 
 Problem Set 04:[Download](https://drive.google.com/file/d/1rGu0qQlgS0OIxb0_moIqh9MTSxGPoMZv/view?usp=sharing)
 
+
+Problem Set 05:[Download](https://drive.google.com/file/d/1gK745MYuOQZJBRET5b_s-LDTVJ6GDhJg/view?usp=sharing)
+
+
+Problem Set 06:[Download](https://drive.google.com/file/d/14KRWugrSoWoIO876Kb0rDnhOXdbkMT_f/view?usp=sharing)
+
+
 Download sample question paper of NCM:[W-4031](https://drive.google.com/file/d/1GfnNcPM5ETRy6i1H1LBeYhH3ENsSbetJ/view?usp=sharing)
 
 
